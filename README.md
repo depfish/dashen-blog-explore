@@ -9,4 +9,4 @@ ID|Name|Org|Location|Blog|Linkedin|Github|Edu|Tag|Comments
 |4|胡伟煌|N.A.|N.A.|https://www.huweihuang.com|N.A.|[github](https://github.com/huweihuang)|N.A.|`k8s源码分析` `90后`||
 |5|Liu Yang|Google|Mountain View, CA|https://www.time4hacks.com|[linkedin](https://www.linkedin.com/in/yang-liu-416b8669)|[github](https://github.com/byliuyang)|Worcester Polytechnic Institute|`Golang大神` `极客` `全栈` `北京国庆日中学`|参加过黑客大赛 独立完成产品|
 |6|sunhaiqing|阿里云|N.A.|http://www.leviathan.vip|N.A.|[github](https://github.com/Leviathan1995)|N.A.|`Go` `C++` `自写编译器` `极客` `90后`| 一看就是个小天才,源码分析|
-|7|Lei Hao|Grab|Singapore|https://www.huweihuang.com|N.A.|[github](https://github.com/huweihuang)|N.A.|`k8s源码分析` `90后`||
+|7|Lei Hao|Grab|Singapore|https://artwalk.github.io|N.A.|[github](https://github.com/Artwalk)|N.A.|`IOS` `Go` `读书超千本` |爱读书，爱学习 [豆瓣](https://book.douban.com/people/artwalk/)|
